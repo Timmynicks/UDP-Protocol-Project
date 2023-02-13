@@ -5,5 +5,8 @@ The file is then checked errors with a checksum before saved within the director
 
 Due to the use of a private server, the program cannot be run freely.
 
+# Note
+This program only works with Unix operating systems because it uses headers that only Unix provides
+
 # Contributors
 Sarvesh Kulkarni
